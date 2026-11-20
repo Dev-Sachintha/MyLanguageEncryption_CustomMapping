@@ -1,0 +1,23 @@
+{
+    "admin": {
+        "username": "admin",
+        "full_name": "Chief Security Administrator",
+        "role": "Admin",
+        "salt": "e24ea54cd00962feecbaf096235904e4",
+        "password_hash": "f716f54cf97662c4911b68a088dc8c3bc613c267b8fc06bc608860da0fccfc84"
+    },
+    "subadmin1": {
+        "username": "subadmin1",
+        "full_name": "Field Operations Official",
+        "role": "Subadmin",
+        "salt": "0ad3fa76a5cf7475a364cf7e69d64fec",
+        "password_hash": "4925c6c1d3c7ea1757037894d597f3c184149d54332453a857fd78af4077feb5"
+    },
+    "analyst1": {
+        "username": "analyst1",
+        "full_name": "Intelligence Analyst",
+        "role": "Analyst",
+        "salt": "cf7d3b250f984cef075ae0bb8e70fe5b",
+        "password_hash": "bf312465181cbca03938750a46532766508cd4d338e98d10d9ea246478f53a6d"
+    }
+}
